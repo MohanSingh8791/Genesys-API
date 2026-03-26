@@ -1,0 +1,13 @@
+{
+  "translationMap": {
+    "ITEM_1": "$.KEY_1",
+    "ITEM_2": "$.KEY_2",
+    "ITEM_3": "$.KEY_3"
+  },
+  "translationMapDefaults": {
+    "ITEM_1": "\"UNKNOWN\"",
+    "ITEM_2": "\"UNKNOWN\"",
+    "ITEM_3": "false"
+  },
+  "successTemplate": "{\"ITEM_1\": ${ITEM_1}, \"ITEM_2\": ${ITEM_2}, \"ITEM_3\": ${ITEM_3}}"
+}
